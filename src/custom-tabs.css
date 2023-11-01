@@ -1,0 +1,6 @@
+li.menu-item-handle {
+    padding: 10px;
+}
+li.menu-item-handle:hover {
+    border: 1px solid #8c8f94;
+}
