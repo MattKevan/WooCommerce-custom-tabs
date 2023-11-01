@@ -1,4 +1,4 @@
-# WooCommerce custom tabs
+# WooCommerce custom product tabs
 
 ## Features
 
